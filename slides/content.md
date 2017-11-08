@@ -59,9 +59,6 @@ What are pain points to creation?
     <img class="plain" data-src="resources/textures/arShadows-circ.png">
     <i>Tech:<br> WebAR</i>
   </div>
-  <div>
-    <img class="plain" data-src="resources/textures/paideia-circ.png">
-    <i>Example</i>
-  </div>
+
 
 </div>

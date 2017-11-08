@@ -1,7 +1,7 @@
 <!-- .slide: data-state="title" data-background="resources/textures/background-radial.jpeg"  -->
 
 <div class="talk-title">
-	<h1>State of WebVR , A-Frame and Our Foray Into Web Mixed Reality</h1>
+	<h1>Mixing Real and Virtual in WebAR - Augmented and Mixed Reality for Everyone</h1>
     <p class="talk-info">
 		<b><a href="http://blairmacintyre.me">Rabimba Karanjai</a></b>
 		<br>

@@ -55,44 +55,4 @@ let box = new THREE.Mesh(
     <span>https://argon-example.glitch.me</span>
 </blockquote>
 	
----
-<!-- .slide: data-background="resources/textures/twine.png" -->
 
-<h2>Twine</h2>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-    <span>twinery.org</span>
-</blockquote>
-
----
-<!-- .slide: data-background="resources/textures/gurivr.png" -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br>
-
-<br>
-
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-    <span>gurivr.org</span>
-</blockquote>

@@ -7,21 +7,6 @@
   </div>
 </div>
 ------
-<!-- .slide: data-background="resources/textures/three-rifteffect-minecraft-2014.png" -->
-
-## People Tried to do Web+VR before WebVR
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p>https://github.com/mrdoob/three.js/commit/7e19183619439d03ff441b239157f1720eb9a734 <br> in 2013</p>
-
-------
 
 <!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
 

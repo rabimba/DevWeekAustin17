@@ -1,16 +1,4 @@
 
-<!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
-
-<h2>WebXR: Expanding WebVR to Support MR</h2>
-<p>Web Platform: WebVR, Browsers (Custom, Servo, FF, ...), WebAssembly</p>
-<p>Native AR Platforms: ARKit, ARCore, Vision SDKs, ...</p>
-<p>MR Requirements: Augmented and Virtual Realities, Anchors, <br>Geospatial References, Custom Computer Vision.</p>
-<br>
-<br>
-<p>https://github.com/mozilla/webxr-api<br>https://github.com/mozilla/webxr-polyfill <br>(_and more soon_)</p>
-
-
-------
 
 <!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
 
